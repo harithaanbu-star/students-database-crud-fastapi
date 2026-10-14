@@ -2,6 +2,8 @@
 
 **Python Backend Development Project** | **EWB Edu Tech Pvt. Ltd. Internship Assignment**
 
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/harithaanbu-star/students-database-crud-fastapi)
+
 A high-performance, production-ready RESTful API built with **FastAPI** and **SQLite** for managing student records with full Create, Read, Update, and Delete (CRUD) operations, data validation, filtering, pagination, and an optional **Grounded Local AI query engine** powered by **Ollama**.
 
 ---
